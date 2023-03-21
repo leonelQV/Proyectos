@@ -1,2 +1,0 @@
-usuario: pablito
-contraseña: 12345
